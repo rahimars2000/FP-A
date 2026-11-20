@@ -1,0 +1,6 @@
+{
+  "name": "Acuity FP&A Enterprise ERP",
+  "description": "Enterprise FP&A platform featuring real-time predictive forecasting, multi-entity financial consolidation, automated intercompany reconciliation, and audit-ready compliance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
